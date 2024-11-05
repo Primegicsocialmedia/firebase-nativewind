@@ -19,7 +19,7 @@ export default function App() {
 
           <Image
             source={images.cards}
-            className="max-w-[380px] w-full h-[300px]"
+            className="max-w-[380px] w-full h-[300px] rounded-full"
             resizeMode="contain"
           />
 
